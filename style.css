@@ -90,9 +90,9 @@ section h2 {
 
 /* === About Section === */
 .about-section p {
-  font-size: 1.09rem;
+  font-size: 1.5rem;
   line-height: 1.7;
-  color: #F401BF;
+  color: #00ffcc;
   text-align: center;
 }
 
@@ -203,5 +203,6 @@ section h2 {
   transform: scale(1.2);
   filter: drop-shadow(0 0 8px #00ffcc);
 }
+
 
 
