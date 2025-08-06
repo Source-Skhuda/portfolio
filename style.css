@@ -92,7 +92,7 @@ section h2 {
 .about-section p {
   font-size: 1.05rem;
   line-height: 1.7;
-  color: #0cf39e;
+  color: #CF1507;
   text-align: center;
 }
 
@@ -203,3 +203,4 @@ section h2 {
   transform: scale(1.2);
   filter: drop-shadow(0 0 8px #00ffcc);
 }
+
